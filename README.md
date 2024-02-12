@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas, 29, in love with my wife, INTJ, draftsman, sign language interpreter and a head full of dreams.
+- 👋 Hi, I’m Lucas, 29, in love with my wife, INTJ, Chemistry Technician, draftsman, sign language interpreter and a head full of dreams.
 - 👀 I’m interested in idioms (english, sign language, ...), music, MBTI, spirituality, coding, personal development and the list has no end.
 - 🌱 I’m currently learning algorithm, HTML+CSS, JavaScript and Python.
 - 💞️ I’m looking for job opportunities in the information technology field (Remote Work).
