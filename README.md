@@ -2,5 +2,5 @@
 - 👀 I’m interested in idioms (english, sign language, ...), music, MBTI, spirituality, coding, personal development and the list has no end.
 - 🌱 I’m currently learning HTML+CSS, JavaScript and Python. Check it out my <a href="https://www.dio.me/users/andrade95" target="_blank">DIO Profile</a>.
 - 💞️ I’m looking for job opportunities in the information technology field (Remote Work).
-- 📫 You can contact me on my phone +55 66 98131 0577 (Telegram/WhatsApp) email: andrade95@live.com or <a href="https://www.linkedin.com/in/lucas-vinicius-de-andrade" target="_blank">LinkedIn</a> (sorry, no other social networks).
+- 📫 You can contact me on my phone +55 66 98131 0577 (WhatsApp) email: andrade95@live.com or <a href="https://www.linkedin.com/in/lucas-vinicius-de-andrade" target="_blank">LinkedIn</a> (sorry, no other social networks).
 - 📖 Access <a href="https://www.jw.org" target="_blank">www.jw.org</a>
