@@ -1,6 +1,93 @@
-- 👋 Hi, I’m Lucas, 29, in love with my wife, INTJ, Chemistry Technician, draftsman, sign language interpreter and a head full of dreams.
-- 👀 I’m interested in idioms (english, sign language, ...), music, MBTI, spirituality, coding, personal development and the list has no end.
-- 🌱 I’m currently learning HTML+CSS, JavaScript and Python. Check it out my <a href="https://www.dio.me/users/andrade95" target="_blank">DIO Profile</a>.
-- 💞️ I’m looking for job opportunities in the information technology field (Remote Work).
-- 📫 You can contact me on my phone +55 66 98131 0577 (WhatsApp) email: andrade95@live.com or <a href="https://www.linkedin.com/in/lucas-vinicius-de-andrade" target="_blank">LinkedIn</a> (sorry, no other social networks).
-- 📖 Access <a href="https://www.jw.org" target="_blank">www.jw.org</a>
+# Hi there, I'm Lucas 👋
+
+**Quality Assurance Analyst | Product Owner | AI Enthusiast**
+
+I'm a **Quality Assurance Analyst** with experience in manual testing for **Web, Mobile, and REST API** applications. My work includes test planning and execution, bug investigation, regression testing, and validating software quality throughout the development lifecycle.
+
+In addition to QA, I also contribute as a **Product Owner**, collaborating with agile teams to prioritize improvements, refine requirements, and help deliver valuable software solutions.
+
+I'm passionate about technology and continuously expanding my skills in **test automation, AI-assisted development, and software engineering**.
+
+---
+
+## 💼 Current Focus
+
+* 🧪 Ensuring software quality across Web, Mobile, and API applications
+* 🧑‍💼 Collaborating with agile teams as a Product Owner
+* 🤖 Building software with AI-assisted development
+* ⚙️ Learning modern test automation with Playwright
+* 📚 Continuously improving my English and technical skills
+
+---
+
+## 🧪 QA Skills
+
+* Manual Testing
+* Test Planning & Execution
+* Bug Investigation & Reporting
+* API Testing
+* Regression Testing
+* End-to-End (E2E) Testing
+* Exploratory Testing
+* Requirements Validation
+
+---
+
+## 🛠️ Tools
+
+### Version Control
+
+* GitLab
+* GitHub
+
+### Project Management
+
+* Jira
+* Trello
+
+### API Testing
+
+* Postman
+* Swagger
+
+### Testing Platforms
+
+* Tuskr
+
+### Development
+
+* VS Code
+* Cursor
+* Browser DevTools
+* Docker
+
+---
+
+## 🌱 Currently Learning
+
+* Test Automation
+* AI Engineering
+* AI-assisted Software Development
+* Modern Web Development
+* Software Architecture
+* Analysis and Software Development (Bachelor's Degree)
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a highly skilled QA professional capable of combining **manual testing, automation, AI, and product thinking** to build reliable software and deliver outstanding user experiences.
+
+I enjoy solving problems, learning new technologies, and continuously improving the software development process.
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: https://linkedin.com/in/lucas-vinicius-de-andrade
+* 📧 Email: [andradelucas.tj@gmail.com](mailto:andradelucas.tj@gmail.com)
+* 💬 WhatsApp: https://wa.me/5566981310577
+
+---
+
+> *"Quality isn't tested into software. It's built into every decision."*
